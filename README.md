@@ -1,4 +1,5 @@
 # Learn Github
 
-This is a repo for learning abut githubl-git
-# l-git
+This is a repo for learning about l-git
+
+## l-git is new repo
