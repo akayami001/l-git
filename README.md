@@ -1,1 +1,1 @@
-# Leran Github
+# Learn Github
